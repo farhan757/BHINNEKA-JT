@@ -1,0 +1,14 @@
+[
+	{
+		"No": 1,
+		"IdReff": "4BLS6281342045915",
+		"Status": "Delivered",
+		"Keterangan": null
+	},
+	{
+		"No": 2,
+		"IdReff": "3BLS6281342045915",
+		"Status": "Undelivered",
+		"Keterangan": "Nomor tujuan tidak valid"
+	}
+]
