@@ -1,2 +1,0 @@
-2020-10-06T14:43:56.876 : Mulai
-2020-10-06T14:44:00.634 : Create order in webbase

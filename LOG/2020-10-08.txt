@@ -1,6 +1,0 @@
-2020-10-08T14:48:40.013 : Mulai
-2020-10-08T14:48:42.530 : Create order in webbase
-2020-10-08T15:47:59.805 : Mulai
-2020-10-08T15:48:01.860 : Create order in webbase
-2020-10-08T15:49:34.090 : Mulai
-2020-10-08T15:49:36.485 : Create order in webbase

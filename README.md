@@ -1,2 +1,0 @@
-# BHINNEKA-JAVA
- project new
